@@ -7,4 +7,6 @@ Main differences from bus blaster v2:
 * Removed extra 0.1" headers
 * Upgraded CPLD to XC2C64A
 
+[Bill of materials](https://github.com/doceme/bus-blaster-case/wiki/Bill-of-materials)
+
 License: [CC-BY-SA 3.0](http://creativecommons.org/licenses/by-sa/3.0) (same as Bus Blaster)
