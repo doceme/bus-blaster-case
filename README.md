@@ -3,7 +3,7 @@
 Main differences from bus blaster v2:
 
 * PCB layout changed to fit the enclosure
-* A 2:1 multiplexer was added to support ARM [SWO](http://infocenter.arm.com/help/index.jsp?topic=/com.arm.doc.ddi0314h/Chdfgefg.html) and [SWV](http://infocenter.arm.com/help/index.jsp?topic=/com.arm.doc.ddi0314h/Chdfdjjc.html)
+* SPDT switch added to support ARM [SWO](http://infocenter.arm.com/help/index.jsp?topic=/com.arm.doc.ddi0314h/Chdfgefg.html) and [SWV](http://infocenter.arm.com/help/index.jsp?topic=/com.arm.doc.ddi0314h/Chdfdjjc.html)
 * Removed extra 0.1" headers
 * Upgraded CPLD to XC2C64A
 
